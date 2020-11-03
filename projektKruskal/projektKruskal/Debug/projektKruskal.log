@@ -1,0 +1,7 @@
+﻿  funkcje.cpp
+C:\Users\theca\source\repos\projektKruskal\projektKruskal\funkcje.cpp(38,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\theca\source\repos\projektKruskal\projektKruskal\funkcje.cpp(42,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\theca\source\repos\projektKruskal\projektKruskal\funkcje.cpp(54,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\theca\source\repos\projektKruskal\projektKruskal\funkcje.cpp(118,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\theca\source\repos\projektKruskal\projektKruskal\funkcje.cpp(80): warning C4715: "isInQueue”: niewszystkie ścieżki kodu zwracają wartość
+  projektKruskal.vcxproj -> C:\Users\theca\source\repos\projektKruskal\Debug\projektKruskal.exe
